@@ -6,7 +6,7 @@ Each lab folder includes .sh files and output screenshots demonstrating successf
 ---
 
 ## Lab Folders
-
+- [lab 1](https://github.com/viditahuja/LinuxLab/blob/main/Lab1.md)
 - [Lab 3](./Lab3)
 - [Lab 4](./Lab4)
 - [Lab 5](./Lab5)
