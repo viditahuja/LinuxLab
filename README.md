@@ -13,7 +13,7 @@ Each lab folder includes .sh files and output screenshots demonstrating successf
 - [Lab 6](./Lab6)
 - [Lab 7](./Lab7)
 - [Lab 8](./Lab8)
-
+- [MID SEM](https://github.com/viditahuja/LinuxLab/blob/main/Mid_Sem.md)
 ---
 
 ## Submission Details
