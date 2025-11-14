@@ -82,8 +82,8 @@ fi
 
 
 if [ -f "$LOG_FILE" ]; then
-    mail -s "Daily System Log - $(date +%Y-%m-%d)" tanmay@localhost < "$LOG_FILE"
-    echo "Log emailed to local mailbox: tanmay@localhost"
+    mail -s "Daily System Log - $(date +%Y-%m-%d)" viditahuja@localhost < "$LOG_FILE"
+    echo "Log emailed to local mailbox: viditahuja@localhost"
 else
     echo "No log file found for today!"
 fi
@@ -106,20 +106,19 @@ Command(s):
 
 ```bash
 crontab -e
-0 8 * * * /home/tanmay/desktop/linux/exp3/midsem.sh
+0 8 * * * /home/vidit_ahuja/desktop/linux/exp3/midsem.sh
 ```
 
 Output:
 
-<p align="center">
-<img src="img/out2.png" width="900">
-</p>
+<img width="1082" height="1531" alt="Screenshot 2025-11-14 170744" src="https://github.com/user-attachments/assets/29782092-e53c-4bbf-9b23-2687a7fa0c47" />
+
+
 
 **Final Output**:
 
-<p align="center">
-<img src="img/out3.png" width="900">
-</p>
+<img width="1071" height="143" alt="Screenshot 2025-11-14 170823" src="https://github.com/user-attachments/assets/a1e4627e-ea46-40d0-a50f-34952757609f" />
+
 
 
 
